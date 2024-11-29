@@ -1,0 +1,54 @@
+MainWindow
+  id: pixWindow
+  size: 250 250
+  text: Pagamento por pix
+
+  MenuLabel
+    id: firstName
+    !text: tr("Seu nome:")
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: parent.top
+    margin-top: 20
+    color: #00db0c
+
+  TextEdit
+    id: firstNameText
+    size: 200 25
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: prev.bottom
+    margin-top: 5
+    max-length: 25
+
+  MenuLabel
+    id: ValorLabel
+    !text: tr("Valor:")
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: prev.bottom
+    margin-top: 15
+    color: #00db0c
+
+  TextEdit
+    id: valorText
+    size: 200 25
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: prev.bottom
+    margin-top: 5
+    max-length: 25
+    
+  Button
+    id: cancelar
+    size: 100 30
+    !text: tr("CANCELAR")
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: prev.bottom
+    margin-top: 20
+    @onClick: cancelDonate()
+
+  Button
+    id: confirmar
+    size: 100 30
+    !text: tr("CONFIRMAR")
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: cancelar.bottom
+    margin-top: 10
+    @onClick: sendDonate()

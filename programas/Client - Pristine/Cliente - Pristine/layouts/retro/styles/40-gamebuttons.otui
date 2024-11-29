@@ -1,0 +1,2 @@
+GameButtonsWindow < HeadlessMiniWindow
+  height: 26

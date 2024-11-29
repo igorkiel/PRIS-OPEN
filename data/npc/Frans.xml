@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Frans" script="Frans.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look typeex="2229" head="113" body="113" legs="113" feet="115" addons="0" />
+	<parameters>
+		<parameter key="message_greet" value="Beeee Greeeeted |PLAYERNAME|. What is your neeeed?" />
+		<parameter key="message_farewell" value="Bye." />
+		<parameter key="module_keywords" value="1" />
+		<parameter key="keywords" value="job;" />
+		<parameter key="keyword_reply1" value="I am selliiiing ruuuunes, wands, roooods and spellbooooooks." />
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="
+            blank rune,2260,10;
+            mana fluid,7620,50;
+            health fluid,7618,45;
+            " />
+            <parameter key="shop_sellable" value="
+		empty potion flask, 7636, 5;
+		spellwand,7735,299;
+		vial,2006,5;" />
+	</parameters>
+</npc>

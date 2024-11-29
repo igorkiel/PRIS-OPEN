@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mehkesh" script="Mehkesh.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="130" head="19" body="92" legs="113" feet="20" addons="0" />
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="
+			health potion,7618,45;
+			jug of embalming fluid,9677,200;
+			mana potion,7620,50;" />
+		<parameter key="shop_sellable" value="
+                  empty potion flask, 7636, 5;
+                  spellwand,7735,299;
+                  vial,2006,5;" />
+	</parameters>
+</npc>

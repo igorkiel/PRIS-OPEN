@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Magido" script="Magido.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="133" head="114" body="103" legs="94" feet="120" addons="3" />
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="
+			blank rune,2260,10;
+			health potion,7618,45;
+			mana potion,7620,50;" 
+		/>
+		<parameter key="shop_sellable" value="
+			empty potion flask,7634,5;
+			empty potion flask,7635,5;
+			empty potion flask,7636,5;
+			empty nimble flask, 26753, 9;
+			empty hazel flask, 26754, 12;
+			empty tumble flask, 26755, 15;
+			spellwand,7735,299;
+			vial,2006,5;" />
+	</parameters>
+</npc>

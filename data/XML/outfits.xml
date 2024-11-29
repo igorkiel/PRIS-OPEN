@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfits>
+	<!-- A outfits -->
+	<outfit type="0" looktype="431" name="Afflicted" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="430" name="Afflicted" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="912" name="Ancient Aucar" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="911" name="Ancient Aucar" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="885" name="Arena Champion" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="884" name="Arena Champion" premium="yes" unlocked="no" enabled="yes" />
+
+	<outfit type="0" looktype="916" name="Armoured Archer" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="915" name="Armoured Archer" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1229" name="Arodis" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1228" name="Arodis" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="184" name="Assassin" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="183" name="Assassin" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1218" name="Astral" premium="yes" unlocked="no" enabled="yes" />	
+	<outfit type="1" looktype="1219" name="Astral" premium="yes" unlocked="no" enabled="yes" />	
+				
+	<outfit type="0" looktype="1214" name="Astral Earth" premium="yes" unlocked="no" enabled="yes" />	
+	<outfit type="1" looktype="1215" name="Astral Earth" premium="yes" unlocked="no" enabled="yes" />
+			
+	<outfit type="0" looktype="1216" name="Astral Electric" premium="yes" unlocked="no" enabled="yes" />		
+	<outfit type="1" looktype="1217" name="Astral Electric" premium="yes" unlocked="no" enabled="yes" />	
+		
+	<outfit type="0" looktype="1210" name="Astral Ice" premium="yes" unlocked="no" enabled="yes" />	
+	<outfit type="1" looktype="1211" name="Astral ice" premium="yes" unlocked="no" enabled="yes" />	
+	
+	<outfit type="0" looktype="1212" name="Astral Fire" premium="yes" unlocked="no" enabled="yes" />	
+	<outfit type="1" looktype="1213" name="Astral Fire" premium="yes" unlocked="no" enabled="yes" />	
+
+	<outfit type="0" looktype="1207" name="Astro Skeleton Mage" premium="yes" unlocked="no" enabled="yes" />	
+	<outfit type="1" looktype="1207" name="Astro Skeleton Mage" premium="yes" unlocked="no" enabled="yes" />	
+	
+	<outfit type="0" looktype="1208" name="Astro Skeleton Warrior" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1208" name="Astro Skeleton Warrior" premium="yes" unlocked="no" enabled="yes" />		
+	<!-- A outfits -->
+	
+		
+	<!-- B outfits -->
+	<outfit type="0" looktype="998" name="Battle mage" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="997" name="Battle mage" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="636" name="Beastmaster" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="637" name="Beastmaster" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="147" name="Barbarian" premium="yes" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="143" name="Barbarian" premium="yes" unlocked="yes" enabled="yes" />
+	
+	<outfit type="0" looktype="188" name="Beggar" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="187" name="Beggar" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1238" name="Blade Dancer" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1237" name="Blade Dancer" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="279" name="Brotherhood" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="278" name="Brotherhood" premium="yes" unlocked="no" enabled="yes" />
+	<!-- B outfits -->
+	
+		
+	<!-- C outfits -->
+	<outfit type="0" looktype="575" name="Cave Explorer" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="574" name="Cave Explorer" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="136" name="Citizen" premium="no" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="128" name="Citizen" premium="no" unlocked="yes" enabled="yes" />
+	
+	<outfit type="0" looktype="1189" name="Celestial Avenger" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1188" name="Celestial Avenger" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="694" name="Ceremonial Garb" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="695" name="Ceremonial Garb" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="632" name="Champion" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="633" name="Champion" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="664" name="Chaos Acolyte" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="665" name="Chaos Acolyte" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="635" name="Conjurer" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="634" name="Conjurer" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1224" name="Corruped Mage Man" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1224" name="Corruped Mage Man" premium="yes" unlocked="no" enabled="yes" />	
+	
+	<outfit type="0" looktype="513" name="Crystal Warlord" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="512" name="Crystal Warlord" premium="yes" unlocked="no" enabled="yes" />
+	<!-- C outfits -->
+
+		
+	<!-- D outfits -->
+	<outfit type="0" looktype="924" name="Darklight Evoker" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="923" name="Darklight Evoker" premium="yes" unlocked="no" enabled="yes" />
+
+	<outfit type="0" looktype="666" name="Death Herald" premium="yes" unlocked="no" enabled="yes" />		
+	<outfit type="1" looktype="667" name="Death Herald" premium="yes" unlocked="no" enabled="yes" />
+
+	<outfit type="0" looktype="922" name="Decaying Defender" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="921" name="Decaying Defender" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="464" name="Deepling" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="463" name="Deepling" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="170" name="Demon" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="171" name="Demon" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="288" name="Demon Hunter" premium="yes" unlocked="no" enabled="yes" />	
+	<outfit type="1" looktype="289" name="Demon Hunter" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="542" name="Demon Outfit" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="541" name="Demon Outfit" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1000" name="Discoverer" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="999" name="Discoverer" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1017" name="Doom Knight" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1016" name="Doom Knight" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="260" name="Dragon Slayer" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="259" name="Dragon Slayer" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="578" name="Dream Warden" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="577" name="Dream Warden" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="144" name="Druid" premium="yes" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="144" name="Druid" premium="yes" unlocked="yes" enabled="yes" />
+	<!-- D outfits -->
+	
+	
+	<!-- E outfits -->
+	<outfit type="0" looktype="433" name="Elementalist" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="432" name="Elementalist" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1202" name="Embolwed Axe" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1202" name="Embolwed Axe" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1203" name="Embolwed Club" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1203" name="Embolwed Club" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1204" name="Embolwed Sword" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1204" name="Embolwed Sword" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="471" name="Entrepreneur" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="472" name="Entrepreneur" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="918" name="Eternal Mage" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="917" name="Eternal Mage" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="973" name="Everblight" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="974" name="Everblight" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="724" name="Evoker" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="725" name="Evoker" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1200" name="Expert Archer" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1200" name="Expert Archer" premium="yes" unlocked="no" enabled="yes" />
+	<!-- E outfits -->
+	
+		
+	<!-- F outfits -->
+	<outfit type="0" looktype="926" name="Flamefury Mage" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="925" name="Flamefury Mage" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="914" name="Frost Tracer" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="913" name="Frost Tracer" premium="yes" unlocked="no" enabled="yes" />
+	<!-- F outfits -->
+		
+	
+	<!-- G outfits -->
+	<outfit type="0" looktype="75" name="Game master" premium="no" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="75" name="Game master" premium="no" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="618" name="Glooth Engineer" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="610" name="Glooth Engineer" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1065" name="Golden" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1064" name="Golden" premium="yes" unlocked="no" enabled="yes" />
+	<!-- G outfits -->
+		
+	
+	<!-- H outfits -->
+	<outfit type="0" looktype="137" name="Hunter" premium="no" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="129" name="Hunter" premium="no" unlocked="yes" enabled="yes" />
+	
+	<outfit type="0" looktype="985" name="Herald" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="984" name="Herald" premium="yes" unlocked="no" enabled="yes" />
+		
+	<outfit type="0" looktype="1015" name="Hand of Inquisition" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1014" name="Hand of Inquisition" premium="yes" unlocked="no" enabled="yes" />
+	<!-- H outfits -->
+	
+		
+	<!-- I outfits -->
+	<outfit type="0" looktype="466" name="Insectoid" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="465" name="Insectoid" premium="yes" unlocked="no" enabled="yes" />
+	<!-- I outfits -->
+	
+		
+	<!-- J outfits -->
+	<outfit type="0" looktype="620" name="Jersey" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="619" name="Jersey" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="270" name="Jester" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="273" name="Jester" premium="yes" unlocked="no" enabled="yes" />
+	<!-- J outfits -->
+	
+		
+	<!-- K outfits -->
+	<outfit type="0" looktype="139" name="Knight" premium="no" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="131" name="Knight" premium="no" unlocked="yes" enabled="yes" />
+	<!-- K outfits -->
+
+	
+	<!-- L outfits -->
+	<outfit type="0" looktype="920" name="Lion of War" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="919" name="Lion of War" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="900" name="Lupine Warden" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="899" name="Lupine Warden" premium="yes" unlocked="no" enabled="yes" />
+	<!-- L outfits -->
+	
+	
+	<!-- M outfits -->
+	<outfit type="0" looktype="138" name="Mage" premium="no" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="130" name="Mage" premium="no" unlocked="yes" enabled="yes" />
+	
+	<outfit type="0" looktype="1199" name="Magical Druid" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1199" name="Magical Druid" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1201" name="Magical Sorcerer" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1201" name="Magical Sorcerer" premium="yes" unlocked="no" enabled="yes" />
+	<!-- M outfits -->
+		
+
+	<!-- N outfits -->
+	<outfit type="0" looktype="163" name="New Citizen" premium="yes" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="162" name="New Citizen" premium="yes" unlocked="yes" enabled="yes" />
+
+	<outfit type="0" looktype="175" name="New Druid" premium="yes" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="174" name="New Druid" premium="yes" unlocked="yes" enabled="yes" />
+	
+	<outfit type="0" looktype="165" name="New Hunter" premium="yes" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="164" name="New Hunter" premium="yes" unlocked="yes" enabled="yes" />	
+	
+	<outfit type="0" looktype="138" name="New Mage" premium="yes" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="176" name="New Mage" premium="yes" unlocked="yes" enabled="yes" />
+	
+	<outfit type="0" looktype="182" name="New Knight" premium="yes" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="181" name="New Knight" premium="yes" unlocked="yes" enabled="yes" />
+	
+	<outfit type="0" looktype="327" name="New Noblewoman" premium="yes" unlocked="yes" enabled="yes" />
+	
+	<outfit type="0" looktype="167" name="New Warrior" premium="yes" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="166" name="New Warrior" premium="yes" unlocked="yes" enabled="yes" />
+	
+	<outfit type="0" looktype="179" name="New Wizard" premium="yes" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="178" name="New Wizard" premium="yes" unlocked="yes" enabled="yes" />
+	
+	<outfit type="0" looktype="329" name="Newly Wed" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="328" name="Newly Wed" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="269" name="Nightmare" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="268" name="Nightmare" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="186" name="Norsewoman" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="185" name="Norseman" premium="yes" unlocked="no" enabled="yes" />
+	<!-- N outfits -->
+	
+
+	<!-- O outfits -->	
+	<outfit type="0" looktype="265" name="Outfit" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="266" name="Outfit" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="172" name="Old Mage" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="172" name="Old Mage" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="180" name="Old Man" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="180" name="Old Man" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="150" name="Oriental" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="146" name="Oriental" premium="yes" unlocked="yes" enabled="yes" />
+	<!-- O outfits -->
+
+
+	<!-- P outfits -->
+	<outfit type="0" looktype="874" name="Philosopher" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="873" name="Philosopher" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="155" name="Pirate" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="151" name="Pirate" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1038" name="Poltergeist" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1037" name="Poltergeist" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1220" name="Princess of Lands" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1221" name="Prince of Lands" premium="yes" unlocked="no" enabled="yes" />
+			
+	<outfit type="0" looktype="696" name="Puppeteer" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="697" name="Puppeteer" premium="yes" unlocked="no" enabled="yes" />
+	<!-- P outfits -->
+		
+	
+	<!-- R outfits -->
+	<outfit type="0" looktype="683" name="Ranger" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="684" name="Ranger" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="745" name="Recruiter" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="746" name="Recruiter" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="140" name="Retro Noblewoman" premium="yes" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="132" name="Retro Nobleman" premium="yes" unlocked="yes" enabled="yes" />
+
+	<outfit type="0" looktype="1067" name="Revenant" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1066" name="Revenant" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="845" name="Rift Warrior" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="846" name="Rift Warrior" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="264" name="Royal Costume" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="263" name="Royal Costume" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="759" name="Royal Pumpkin" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="760" name="Royal Pumpkin" premium="yes" unlocked="no" enabled="yes" />
+	<!-- R outfits -->
+		
+		
+	<!-- S outfits -->
+	<outfit type="0" looktype="732" name="Seaweaver" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="733" name="Seaweaver" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="749" name="Sea Dog" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="750" name="Sea Dog" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="910" name="Shadowlotus Disciple" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="909" name="Shadowlotus Disciple" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="190" name="Shaman" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="189" name="Shaman" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="1205" name="Skullhunter" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1206" name="Skullhunter" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="971" name="Small Angel" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="972" name="Small Angel" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="514" name="Soil Guardian" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="516" name="Soil Guardian" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="698" name="Spirit Caller" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="699" name="Spirit Caller" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="141" name="Summoner" premium="yes" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="133" name="Summoner" premium="yes" unlocked="yes" enabled="yes" />
+	<!-- S outfits -->
+
+
+	<!-- W outfits -->
+	<outfit type="0" looktype="336" name="Warmaster" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="335" name="Warmaster" premium="yes" unlocked="no" enabled="yes" />
+
+	<outfit type="0" looktype="142" name="Warrior" premium="yes" unlocked="yes" enabled="yes" />
+	<outfit type="1" looktype="134" name="Warrior" premium="yes" unlocked="yes" enabled="yes" />
+	
+	<outfit type="0" looktype="366" name="Wayfarer" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="367" name="Wayfarer" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="852" name="Winter Warden" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="853" name="Winter Warden" premium="yes" unlocked="no" enabled="yes" />
+	
+	<outfit type="0" looktype="149" name="Wizard" premium="no" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="145" name="Wizard" premium="no" unlocked="no" enabled="yes" />
+	<!-- W outfits -->	
+	
+		
+	<!-- Y outfits -->	
+	<outfit type="0" looktype="324" name="Yalaharian" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="325" name="Yalaharian" premium="yes" unlocked="no" enabled="yes" />
+	<!-- Y outfits -->			
+</outfits>

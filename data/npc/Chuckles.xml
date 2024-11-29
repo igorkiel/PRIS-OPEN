@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Chuckles" script="Chuckles.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="99" />
+	<voices>
+		<voice text="My old bones feel a storm approaching. chuckles" interval2="90" margin="1" yell="no" />
+		<voice text="chuckles!" interval2="90" margin="1" yell="no" />
+	</voices>
+	<parameters>
+		<parameter key="module_keywords" value="1" />
+		<parameter key="keywords" value="magic;" />
+		<parameter key="keyword_reply1" value="Magic is nothing but a tool that comes in different shapes. chuckles" />
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. I trade with runes, potions, wands and rods. If you need something, feel free to ask me for a trade." />
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="
+
+			blank rune,2260,10;
+			health fluid,7618,45;
+			mana fluid,7620,50;
+			spellbook,2175,150;
+			"
+		/>
+		<parameter key="shop_sellable" value="
+			empty potion flask, 7636, 5;
+			spellwand,7735,299;
+			vial,2006,5;" />
+	</parameters>
+</npc>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wings>
+<wing id="1" clientid="1180" name="Angelic Wings" speed="20" />
+<wing id="2" clientid="941" name="Bark Wings" speed="20" />
+<wing id="3" clientid="1185" name="Bride Wings" speed="20" />
+<wing id="4" clientid="1182" name="Butterfly Wings" speed="20" />
+<wing id="5" clientid="1183" name="Dreadbone Spectra" speed="20" />
+<wing id="6" clientid="1177" name="Electric Rider Wings" speed="20" />
+<wing id="7" clientid="1184" name="Enslaved Wings" speed="20" />
+<wing id="8" clientid="939" name="Falanaar Wings" speed="20" />
+<wing id="9" clientid="937" name="Fiery Wings" speed="20" /> 
+<wing id="10" clientid="938" name="Lullaby Wings" speed="20" />
+<wing id="11" clientid="1179" name="Mortis Mirage" speed="20" />
+<wing id="12" clientid="1181" name="Nimbus Wings" speed="20" />
+<wing id="13" clientid="1186" name="Strenght Wings" speed="20" />
+<wing id="14" clientid="940" name="Vampire Wings" speed="20" />
+<wing id="15" clientid="1178" name="Vorondor Flames" speed="20" />
+<wing id="16" clientid="1239" name="16" speed="20" />
+<wing id="17" clientid="1240" name="17" speed="20" />
+<wing id="18" clientid="1242" name="18" speed="20" />
+<wing id="19" clientid="1243" name="19" speed="20" />
+<wing id="20" clientid="1244" name="20" speed="20" />
+<wing id="21" clientid="1245" name="21" speed="20" />
+<wing id="22" clientid="1249" name="22" speed="20" />
+<wing id="23" clientid="1250" name="23" speed="20" />
+<wing id="24" clientid="1251" name="24" speed="20" />
+<wing id="25" clientid="1252" name="25" speed="20" />
+<wing id="26" clientid="1253" name="26" speed="20" />
+<wing id="27" clientid="1254" name="27" speed="20" />
+<wing id="28" clientid="1257" name="28" speed="20" />
+<wing id="29" clientid="1259" name="29" speed="20" />
+<wing id="30" clientid="1260" name="30" speed="20" />
+<wing id="31" clientid="1261" name="31" speed="20" />
+<wing id="32" clientid="1262" name="32" speed="20" />
+<wing id="33" clientid="1263" name="33" speed="20" />
+<wing id="34" clientid="1264" name="34" speed="20" />
+<wing id="35" clientid="1271" name="35" speed="20" />
+<wing id="36" clientid="1266" name="36" speed="20" />
+<wing id="37" clientid="1267" name="37" speed="20" />
+<wing id="38" clientid="1268" name="38" speed="20" />
+<wing id="39" clientid="1269" name="39" speed="20" />
+<wing id="40" clientid="1270" name="40" speed="20" />
+</wings>

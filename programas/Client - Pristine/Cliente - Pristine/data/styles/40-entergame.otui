@@ -1,0 +1,5 @@
+EnterGameWindow < StaticWindow
+  size: 407 354
+  anchors.top: parent.top
+  anchors.bottom: parent.bottom
+  anchors.left: parent.left

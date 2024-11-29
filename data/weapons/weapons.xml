@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weapons>
+	<!-- Rods -->
+	<wand id="23721" level="1" mana="1" min="3" max="7" type="ice"> <!-- The Chiller -->
+	</wand>
+	<wand id="2182" level="7" mana="2" min="8" max="18" type="earth"> <!-- Snakebit Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="2186" level="13" mana="3" min="13" max="25" type="ice"> <!-- Moonlight Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="2185" level="19" mana="5" min="27" max="33" type="death"> <!-- Necrotic Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="8911" level="22" mana="5" min="27" max="33" type="ice"> <!-- Northwind Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="2181" level="26" mana="8" min="42" max="48" type="earth"> <!-- Terra Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="2183" level="33" mana="13" min="55" max="75" type="ice"> <!-- Hailstorm Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="8912" level="37" mana="13" min="55" max="75" type="earth"> <!-- Springsprout Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="8910" level="42" mana="13" min="55" max="75" type="death"> <!-- Underworld Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="13872" level="40" mana="13" min="55" max="75" type="ice"> <!-- Shimmer Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="18411" level="65" mana="17" min="70" max="100" type="earth"> <!-- Muck Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="18412" level="65" mana="17" min="70" max="100" type="ice"> <!-- Glacial Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="24839" level="37" mana="13" min="56" max="74" type="earth"> <!-- Ogre Scepta -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="26757" level="100" mana="25" min="115" max="165" type="earth"> <!-- Venom Wand -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="27197" level="300" mana="20" min="87" max="101" type="earth"> <!-- Falcon Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="27386" level="400" mana="21" min="98" max="118" type="ice"> <!-- Soulhexer -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="27396" level="270" mana="20" min="85" max="105" type="ice"> <!-- Lion rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="27479" level="600" mana="25" min="110" max="130" type="ice"> <!-- Sanguine Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="27480" level="600" mana="26" min="120" max="140" type="ice"> <!-- Grand Sanguine Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="27209" level="220" mana="21" min="70" max="110" type="earth"> <!-- Cobra Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="27649" level="150" mana="19" min="80" max="100" type="ice"> <!-- Jungle Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="27671" level="250" mana="22" min="85" max="105" type="ice"> <!-- Eldritch Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="27672" level="250" mana="25" min="95" max="115" type="ice"> <!-- Gilded Eldritch Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="27689" level="250" mana="21" min="90" max="110" type="ice"> <!-- Naga Rod -->
+		<vocation name="Druid" />
+	</wand>
+	<wand id="28042" level="400" mana="28" min="135" max="155" type="energy"> <!-- Arodis Wand -->
+		<vocation name="Druid" />
+	</wand>
+
+	<!-- Wands -->
+	<wand id="23719" level="1" mana="1" min="3" max="7" type="fire"> <!-- The Scorcher -->
+	</wand>
+	<wand id="2190" level="7" mana="2" min="8" max="18" type="energy"> <!-- Wand of Vortex -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="2191" level="13" mana="3" min="13" max="25" type="fire"> <!-- Wand of Dragonbreath -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="2188" level="19" mana="5" min="27" max="33" type="death"> <!-- Wand of Decay -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="8921" level="22" mana="5" min="27" max="33" type="fire"> <!-- Wand of Draconia -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="2189" level="26" mana="8" min="42" max="48" type="energy"> <!-- Wand of Cosmic Energy -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="2187" level="33" mana="13" min="55" max="75" type="fire"> <!-- Wand of Inferno -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="8920" level="37" mana="13" min="55" max="75" type="energy"> <!-- Wand of Starmstorm -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="8922" level="42" mana="13" min="55" max="75" type="death"> <!-- Wand of Voodoo -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="13760" level="37" mana="13" min="55" max="75" type="death"> <!-- Wand of Dimensions -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="13880" level="40" mana="13" min="55" max="75" type="energy"> <!-- Shimmer Wand -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="18390" level="65" mana="17" min="70" max="100" type="energy"> <!-- Wand of Defiance -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="18409" level="65" mana="17" min="70" max="100" type="fire"> <!-- Wand of Everblazing -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="19391" level="1" mana="2" min="8" max="18" type="energy"> <!-- Sorc and Druid Staff -->
+		<vocation name="None" />
+	</wand>
+	<wand id="25421" level="65" mana="17" min="65" max="95" type="energy"> <!-- Ferumbras' Staff (Failed) -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="25422" level="100" mana="19" min="80" max="110" type="energy"> <!-- Ferumbras' Staff (Enchanted) -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="26756" level="100" mana="25" min="115" max="165" type="ice"> <!-- Frozen Wand -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="27193" level="180" mana="23" min="86" max="98" type="ice"> <!-- Deepling Ceremonial Dagger -->
+		
+		
+	</wand>
+	<wand id="27194" level="230" mana="23" min="80" max="120" type="ice"> <!-- Deepling Fork -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="27198" level="300" mana="21" min="86" max="102" type="energy"> <!-- Falcon Wand -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="27208" level="270" mana="22" min="94" max="100" type="energy"> <!-- Cobra Wand -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="27385" level="400" mana="22" min="100" max="120" type="death"> <!-- Soultainter -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="27397" level="270" mana="21" min="89" max="109" type="ice"> <!-- Lion Wand -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="27476" level="600" mana="25" min="110" max="130" type="energy"> <!-- Sanguine Coil -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="27477" level="600" mana="26" min="120" max="140" type="energy"> <!-- Grand Sanguine Coil -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="27650" level="150" mana="19" min="80" max="100" type="earth"> <!-- Jungle Wand -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="27665" level="250" mana="22" min="85" max="105" type="fire"> <!-- Eldritch Wand -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="27666" level="250" mana="25" min="95" max="115" type="fire"> <!-- Gilded Eldritch Wand -->
+		<vocation name="Sorcerer" />
+	</wand>
+	<wand id="27688" level="250" mana="21" min="95" max="115" type="energy"> <!-- Gilded Eldritch Wand -->
+		<vocation name="Sorcerer" />
+	</wand>
+
+	<!-- Swords -->
+	<melee id="26806" unproperly="1">
+		
+	</melee>
+	<melee id="2396" action="removecharge" />
+
+	<!-- exercise weapons -->
+	<melee id="27732" action="removecharge" />
+	<melee id="27733" action="removecharge" />
+	<melee id="27734" action="removecharge" />
+	<melee id="27758" action="removecharge" />
+
+	
+
+	<melee id="2413" unproperly="1">
+		
+	</melee>
+	<melee id="7385" unproperly="1" />
+	<melee id="2377" unproperly="1">
+		
+	</melee>
+	<melee id="7408" unproperly="1" />
+	<melee id="7449" unproperly="1">
+		
+	</melee>
+	<melee id="2392" unproperly="1" />
+	<melee id="2407" unproperly="1" />
+	<melee id="2438" unproperly="1" />
+	<melee id="7407" unproperly="1">
+		
+	</melee>
+	<melee id="7424" unproperly="1" />
+	<melee id="7406" unproperly="1">
+		
+	</melee>
+	<melee id="2451" unproperly="1" />
+	<melee id="7404" unproperly="1" />
+	<melee id="7386" unproperly="1">
+		
+	</melee>
+	<melee id="2446" unproperly="1" />
+	<melee id="7402" unproperly="1">
+		
+	</melee>
+	<melee id="7383" unproperly="1" />
+	<melee id="7391" unproperly="1">
+		
+	</melee>
+	<melee id="7416" unproperly="1" />
+	<melee id="2393" unproperly="1">
+		
+	</melee>
+	<melee id="7384" unproperly="1" />
+	<melee id="7382" unproperly="1">
+		<vocation name="Knight" showInDescription="1"/>
+	</melee>
+	<melee id="7417" unproperly="1" />
+	<melee id="7403" unproperly="1">
+		
+	</melee>
+	<melee id="7418" unproperly="1" />
+	<melee id="7405" unproperly="1">
+		
+	</melee>
+	<melee id="7390" unproperly="1" />
+	<melee id="6528" unproperly="1">
+		
+	</melee>
+	<melee id="2400" unproperly="1" />
+	<melee id="8930" unproperly="1" />
+	<melee id="8931" unproperly="1" />
+	<melee id="8932" unproperly="1">
+		
+	</melee>
+	<melee id="2408" unproperly="1">
+		
+	</melee>
+	<melee id="2390" unproperly="1">
+		
+	</melee>
+	<melee id="11306" unproperly="1">
+		
+	</melee>
+	<melee id="11307" unproperly="1" />
+	<melee id="12649" level="82" unproperly="1" />
+	<melee id="12613" level="58" unproperly="1">
+		
+	</melee>
+	<melee id="13871" unproperly="1">
+		
+	</melee>
+	<melee id="18450" level="62" unproperly="1" />
+	<melee id="20092" unproperly="1" />
+	<melee id="22398" unproperly="1">
+		
+	</melee>
+	<melee id="22399" unproperly="1">
+		
+	</melee>
+	<melee id="22400" unproperly="1">
+		
+	</melee>
+	<melee id="22401" unproperly="1">
+		
+	</melee>
+	<melee id="22402" unproperly="1">
+		
+	</melee>
+	<melee id="22403" unproperly="1">
+		
+	</melee>
+	<melee id="25416" unproperly="1" />
+	<melee id="26759" unproperly="1">
+		
+	</melee>
+	<melee id="26760" unproperly="1">
+		
+	</melee>
+	<melee id="27204" unproperly="1">
+		
+	</melee>
+	<melee id="27214" unproperly="1"> <!-- Cobra Sword -->
+		
+	</melee>
+	<melee id="27269" unproperly="1"> <!-- Tagralt Blade -->
+		
+	</melee>
+	<melee id="27377" level="400" unproperly="1"> <!-- Soulcutter -->
+		
+	</melee>
+	<melee id="27378" level="400" unproperly="1"> <!-- Soulshredder -->
+		
+	</melee>
+	<melee id="27400" unproperly="1"> <!-- Lion Longsword -->
+		
+	</melee>
+	<melee id="27458" level="600" unproperly="1"> <!-- Sanguine Blade -->
+		
+	</melee>
+	<melee id="27459" level="600" unproperly="1"> <!-- Grand Sanguine Blade -->
+		
+	</melee>
+	<melee id="27464" level="600" unproperly="1"> <!-- Sanguine Razor -->
+		
+	</melee>
+	<melee id="27465" level="600" unproperly="1"> <!-- Grand Sanguine Razor -->
+		
+	</melee>
+	<melee id="27654" unproperly="1"> <!-- Eldritch Claymore -->
+		
+	</melee>
+	<melee id="27655" unproperly="1"> <!-- Gilded Eldritch Claymore -->
+		
+	</melee>
+	<melee id="27681" unproperly="1"> <!-- Naga Sword -->
+		
+	</melee>
+	<melee id="28026" level="400" unproperly="1"> <!-- Astro Sword -->
+		
+	</melee>
+
+	<!-- Fire -->
+	<melee id="7744" action="removecharge" />
+	<melee id="7745" action="removecharge" unproperly="1" />
+	<melee id="7746" action="removecharge" unproperly="1" />
+	<melee id="7747" action="removecharge" unproperly="1">
+		
+	</melee>
+	<melee id="7748" action="removecharge" unproperly="1">
+		
+	</melee>
+
+	<!-- Ice -->
+	<melee id="7763" action="removecharge" />
+	<melee id="7764" action="removecharge" unproperly="1" />
+	<melee id="7765" action="removecharge" unproperly="1" />
+	<melee id="7766" action="removecharge" unproperly="1">
+		
+	</melee>
+	<melee id="7767" action="removecharge" unproperly="1">
+		
+	</melee>
+
+	<!-- Earth -->
+	<melee id="7854" action="removecharge" />
+	<melee id="7855" action="removecharge" unproperly="1" />
+	<melee id="7856" action="removecharge" unproperly="1" />
+	<melee id="7857" action="removecharge" unproperly="1">
+		
+	</melee>
+	<melee id="7858" action="removecharge" unproperly="1">
+		
+	</melee>
+
+	<!-- Energy -->
+	<melee id="7869" action="removecharge" />
+	<melee id="7870" action="removecharge" unproperly="1" />
+	<melee id="7871" action="removecharge" unproperly="1" />
+	<melee id="7872" action="removecharge" unproperly="1">
+		
+	</melee>
+	<melee id="7873" action="removecharge" unproperly="1">
+		
+	</melee>
+
+	<!-- Axes -->
+	<melee id="2378" unproperly="1">
+		
+	</melee>
+	<melee id="2429" unproperly="1" />
+	<melee id="2435" unproperly="1" />
+	<melee id="2425" unproperly="1" />
+	<melee id="2430" unproperly="1" />
+	<melee id="2387" unproperly="1">
+		
+	</melee>
+	<melee id="2381" unproperly="1" />
+	<melee id="2440" unproperly="1">
+		
+	</melee>
+	<melee id="2426" unproperly="1" />
+	<melee id="3962" unproperly="1" />
+	<melee id="7454" unproperly="1">
+		
+	</melee>
+	<melee id="2432" unproperly="1" />
+	<melee id="7380" unproperly="1">
+		
+	</melee>
+	<melee id="7456" unproperly="1" />
+	<melee id="7419" unproperly="1" />
+	<melee id="7413" unproperly="1">
+		
+	</melee>
+	<melee id="7412" unproperly="1" />
+	<melee id="7436" unproperly="1">
+		
+	</melee>
+	<melee id="7411" unproperly="1" />
+	<melee id="7435" unproperly="1" />
+	<melee id="2447" unproperly="1">
+		
+	</melee>
+	<melee id="7388" unproperly="1" />
+	<melee id="2427" unproperly="1" />
+	<melee id="7389" unproperly="1" />
+	<melee id="2414" unproperly="1" />
+	<melee id="2454" unproperly="1">
+		
+	</melee>
+	<melee id="2443" unproperly="1">
+		
+	</melee>
+	<melee id="7420" unproperly="1" />
+	<melee id="7434" unproperly="1" />
+	<melee id="7433" unproperly="1" />
+	<melee id="6553" unproperly="1">
+		
+	</melee>
+	<melee id="7453" unproperly="1">
+		
+	</melee>
+	<melee id="2431" unproperly="1" />
+	<melee id="2415" unproperly="1">
+		
+	</melee>
+	<melee id="8924" unproperly="1" />
+	<melee id="8925" unproperly="1" />
+	<melee id="8926" unproperly="1">
+		
+	</melee>
+	<melee id="11305" unproperly="1" />
+	<melee id="11309" unproperly="1">
+		
+	</melee>
+	<melee id="11323" unproperly="1" />
+	<melee id="15404" unproperly="1" />
+	<melee id="15451" unproperly="1" />
+	<melee id="15454" unproperly="1" />
+	<melee id="15492" unproperly="1" />
+	<melee id="13838" unproperly="1" />
+	<melee id="22404" unproperly="1">
+		
+	</melee>
+	<melee id="22405" unproperly="1">
+		
+	</melee>
+	<melee id="22406" unproperly="1">
+		
+	</melee>
+	<melee id="22407" unproperly="1">
+		
+	</melee>
+	<melee id="22408" unproperly="1">
+		
+	</melee>
+	<melee id="22409" unproperly="1">
+		
+	</melee>
+	<melee id="24828" unproperly="1" />
+	<melee id="25383" unproperly="1" />
+	<melee id="25415" unproperly="1" />
+	<melee id="27205" unproperly="1">
+		
+	</melee>
+	<melee id="27216" unproperly="1">
+		
+	</melee>
+	<melee id="27285" unproperly="1">
+		
+	</melee>
+	<melee id="27379" level="400" unproperly="1"> <!-- Soulbiter -->
+		
+	</melee>
+	<melee id="27380" level="400" unproperly="1"> <!-- Souleater -->
+		
+	</melee>
+	<melee id="27404" unproperly="1"> <!-- Lion Axe -->
+		
+	</melee>
+	<melee id="27462" level="600" unproperly="1"> <!-- Sanguine Hatchet -->
+		
+	</melee>
+	<melee id="27463" level="600" unproperly="1"> <!-- Grand Sanguine Hatchet -->
+		
+	</melee>
+	<melee id="27468" level="600" unproperly="1"> <!-- Sanguine Battleaxe -->
+		
+	</melee>
+	<melee id="27469" level="600" unproperly="1"> <!-- Grand Sanguine Battleaxe -->
+		
+	</melee>
+	<melee id="27643" unproperly="1"> <!-- Throwing Axe -->
+		
+	</melee>
+	<melee id="27658" unproperly="1"> <!-- Eldritch Greataxe -->
+		
+	</melee>
+	<melee id="27659" unproperly="1"> <!-- Gilded Eldritch Greataxe -->
+		
+	</melee>
+	<melee id="27682" unproperly="1"> <!-- Naga Axe -->
+		
+	</melee>
+	<melee id="28025" level="400" unproperly="1"> <!-- Astro Axe -->
+		
+	</melee>
+
+
+	<!-- Fire -->
+	<melee id="7749" action="removecharge" unproperly="1" />
+	<melee id="7750" action="removecharge" unproperly="1" />
+	<melee id="7751" action="removecharge" unproperly="1" />
+	<melee id="7752" action="removecharge" unproperly="1">
+		
+	</melee>
+	<melee id="7753" action="removecharge" unproperly="1">
+		
+	</melee>
+
+	<!-- Ice -->
+	<melee id="7768" action="removecharge" unproperly="1" />
+	<melee id="7769" action="removecharge" unproperly="1" />
+	<melee id="7770" action="removecharge" unproperly="1" />
+	<melee id="7771" action="removecharge" unproperly="1">
+		
+	</melee>
+	<melee id="7772" action="removecharge" unproperly="1">
+		
+	</melee>
+
+	<!-- Earth -->
+	<melee id="7859" action="removecharge" unproperly="1" />
+	<melee id="7860" action="removecharge" unproperly="1" />
+	<melee id="7861" action="removecharge" unproperly="1" />
+	<melee id="7862" action="removecharge" unproperly="1">
+		
+	</melee>
+	<melee id="7863" action="removecharge" unproperly="1">
+		
+	</melee>
+
+	<!-- Energy -->
+	<melee id="7874" action="removecharge" />
+	<melee id="7875" action="removecharge" unproperly="1" />
+	<melee id="7876" action="removecharge" unproperly="1" />
+	<melee id="7877" action="removecharge" unproperly="1">
+		
+	</melee>
+	<melee id="7878" action="removecharge" unproperly="1">
+		
+	</melee>
+
+	<!--Clubs -->
+	<melee id="2423" unproperly="1" />
+	<melee id="7381" unproperly="1" />
+	<melee id="7425" unproperly="1" />
+	<melee id="7432" unproperly="1" />
+	<melee id="2434" unproperly="1" />
+	<melee id="7387" unproperly="1" />
+	<melee id="7379" unproperly="1" />
+	<melee id="7430" unproperly="1" />
+	<melee id="2436" unproperly="1" />
+	<melee id="7437" unproperly="1" />
+	<melee id="3961" unproperly="1" />
+	<melee id="7452" unproperly="1">
+		
+	</melee>
+	<melee id="7450" unproperly="1">
+		
+	</melee>
+	<melee id="2445" unproperly="1" />
+	<melee id="7451" unproperly="1" />
+	<melee id="2424" unproperly="1" />
+	<melee id="7455" unproperly="1" />
+	<melee id="7392" unproperly="1" />
+	<melee id="7426" unproperly="1" />
+	<melee id="7427" unproperly="1" />
+	<melee id="2391" unproperly="1">
+		
+	</melee>
+	<melee id="7410" unproperly="1" />
+	<melee id="7428" unproperly="1">
+		
+	</melee>
+	<melee id="7415" unproperly="1" />
+	<melee id="7414" unproperly="1">
+		
+	</melee>
+	<melee id="2444" unproperly="1">
+		
+	</melee>
+	<melee id="7421" unproperly="1" />
+	<melee id="2452" unproperly="1">
+		
+	</melee>
+	<melee id="7422" unproperly="1" />
+	<melee id="7429" unproperly="1" />
+	<melee id="2453" unproperly="1" />
+	<melee id="7431" unproperly="1" />
+	<melee id="7409" unproperly="1" />
+	<melee id="7423" unproperly="1">
+		
+	</melee>
+	<melee id="2421" unproperly="1" />
+	<melee id="8928" unproperly="1" />
+	<melee id="8929" unproperly="1">
+		
+	</melee>
+	<melee id="8927" unproperly="1" />
+	<melee id="11308" unproperly="1">
+		
+	</melee>
+	<melee id="12648" level="82" unproperly="1" />
+	<melee id="15400" level="38" unproperly="1" />
+	<melee id="15414" unproperly="1" />
+	<melee id="15647" level="48" unproperly="1" />
+	<melee id="20093" unproperly="1" />
+	<melee id="20108" unproperly="1">
+		
+	</melee>
+	<melee id="20139" unproperly="1" />
+	<melee id="22410" unproperly="1">
+		
+	</melee>
+	<melee id="22411" unproperly="1">
+		
+	</melee>
+	<melee id="22412" unproperly="1">
+		
+	</melee>
+	<melee id="22413" unproperly="1">
+		
+	</melee>
+	<melee id="22414" unproperly="1">
+		
+	</melee>
+	<melee id="22415" unproperly="1">
+		
+	</melee>
+	<melee id="24827" unproperly="1" />
+	<melee id="25418" unproperly="1" />
+	<melee id="25420" unproperly="1" />
+	<melee id="27206" unproperly="1">
+		
+	</melee>
+	<melee id="27210" unproperly="1"> <!-- Cobra Club -->
+	
+	</melee>
+	<melee id="27229" unproperly="1"> <!-- Mortal Mace -->
+	
+	</melee>
+	<melee id="27381" level="400" unproperly="1"> <!-- Soulcrusher -->
+	
+	</melee>
+	<melee id="27382" level="400" unproperly="1"> <!-- Soulmaimer -->
+	
+	</melee>
+	<melee id="27405" unproperly="1"> <!-- Lion Hammer -->
+	
+	</melee>
+	<melee id="27460" level="600" unproperly="1"> <!-- Sanguine Cudgel -->
+	
+	</melee>
+	<melee id="27461" level="600" unproperly="1"> <!-- Grand Sanguine Cudgel -->
+	
+	</melee>
+	<melee id="27466" level="600" unproperly="1"> <!-- Sanguine Bludgeon -->
+	
+	</melee>
+	<melee id="27467" level="600" unproperly="1"> <!-- Grand Sanguine Bludgeon -->
+	
+	</melee>
+	<melee id="27642" unproperly="1"> <!-- Jungle Flail -->
+	
+	</melee>
+	<melee id="27656" unproperly="1"> <!-- Eldritch Warmace -->
+	
+	</melee>
+	<melee id="27657" unproperly="1"> <!-- Gilded Eldritch Warmace -->
+	
+	</melee>
+	<melee id="27683" unproperly="1"> <!-- Naga Club -->
+	
+	</melee>
+	<melee id="28027" level="400" unproperly="1"> <!-- Astro Club -->
+	
+	</melee>
+
+	<!-- Fire -->
+	<melee id="7754" action="removecharge" unproperly="1" />
+	<melee id="7755" action="removecharge" unproperly="1" />
+	<melee id="7756" action="removecharge" unproperly="1" />
+	<melee id="7757" action="removecharge" unproperly="1" />
+	<melee id="7758" action="removecharge" unproperly="1">
+		
+	</melee>
+
+	<!-- Ice -->
+	<melee id="7773" action="removecharge" unproperly="1" />
+	<melee id="7774" action="removecharge" unproperly="1" />
+	<melee id="7775" action="removecharge" unproperly="1" />
+	<melee id="7776" action="removecharge" unproperly="1" />
+	<melee id="7777" action="removecharge" unproperly="1">
+		
+	</melee>
+
+	<!-- Earth -->
+	<melee id="7864" action="removecharge" unproperly="1" />
+	<melee id="7865" action="removecharge" unproperly="1" />
+	<melee id="7866" action="removecharge" unproperly="1" />
+	<melee id="7867" action="removecharge" unproperly="1" />
+	<melee id="7868" action="removecharge" unproperly="1">
+		
+	</melee>
+
+	<!-- Energy -->
+	<melee id="7879" action="removecharge" unproperly="1" />
+	<melee id="7880" action="removecharge" unproperly="1" />
+	<melee id="7881" action="removecharge" unproperly="1" />
+	<melee id="7882" action="removecharge" unproperly="1" />
+	<melee id="7883" action="removecharge" unproperly="1">
+		
+	</melee>
+
+	<!-- Bows and Crossbows -->
+	<distance id="5803" unproperly="1"> <!-- Arbalest -->
+		
+	</distance>
+	<distance id="8849" unproperly="1"> <!-- Modified Crossbow -->
+		
+	</distance>
+	<distance id="8850" unproperly="1"> <!-- Chain Bolter -->
+		
+	</distance>
+	<distance id="8853" unproperly="1"> <!-- Ironworker -->
+		
+	</distance>
+	<distance id="8852" unproperly="1"> <!-- Devileye -->
+		
+	</distance>
+	<distance id="8851" unproperly="1"> <!-- Royal Crossbow -->
+		
+	</distance>
+	<distance id="8857" unproperly="1"> <!-- Silkweaver Bow -->
+		
+	</distance>
+	<distance id="8855" unproperly="1"> <!-- Composite Hornbow -->
+		
+	</distance>
+	<distance id="8856" unproperly="1"> <!-- Yol's Bow -->
+		
+	</distance>
+	<distance id="8858" unproperly="1"> <!-- Elethriel's Elemental Bow -->
+		
+	</distance>
+	<distance id="8854" unproperly="1"> <!-- Warsinger Bow -->
+		
+	</distance>
+	<distance id="13873" unproperly="1"> <!-- Shimmer Bow -->
+		
+	</distance>
+	<distance id="15643" unproperly="1"> <!-- Hive Bow -->
+		
+	</distance>
+	<distance id="15644" unproperly="1"> <!-- Ornate Crossbow -->
+		
+	</distance>
+	<distance id="16111" unproperly="1"> <!-- Thorn Spitter -->
+		
+	</distance>
+	<distance id="18453" unproperly="1"> <!-- Crystal Crossbow -->
+		
+	</distance>
+	<distance id="18454" unproperly="1"> <!-- Mycological Bow -->
+		
+	</distance>
+	<distance id="21690" unproperly="1"> <!-- Triple Bolt Crossbow -->
+		
+	</distance>
+	<distance id="21696" unproperly="1" /> <!-- Icicle Bow -->
+	<distance id="22416" unproperly="1"> <!-- Crude Umbral Bow -->
+		
+	</distance>
+	<distance id="22417" unproperly="1"> <!-- Umbral Bow -->
+		
+	</distance>
+	<distance id="22418" unproperly="1"> <!-- Umbral Master Bow -->
+		
+	</distance>
+	<distance id="22419" unproperly="1"> <!-- Crude Umbral Crossbow -->
+		
+	</distance>
+	<distance id="22420" unproperly="1"> <!-- Umbral Crossbow -->
+		
+	</distance>
+	<distance id="22421" unproperly="1"> <!-- Umbral Master Crossbow -->
+		
+	</distance>
+	<distance id="25522" unproperly="1"> <!-- Rift Bow -->
+		
+	</distance>
+	<distance id="25523" unproperly="1"> <!-- Rift Crossbow -->
+		
+	</distance>
+	<distance id="26758" unproperly="1"> <!-- Lazering Bow -->
+		
+	</distance>
+	<distance id="26765" unproperly="1"> <!-- Exowing Bow -->
+		
+	</distance>
+	<distance id="27199" unproperly="1"> <!-- Falcon Bow -->
+		
+	</distance>
+	<distance id="27212" unproperly="1"> <!-- Cobra crossbow -->
+		
+	</distance>
+	<distance id="27230" unproperly="1"> <!-- Bow of Cataclysm -->
+		
+	</distance>
+	<distance id="27383" level="400" unproperly="1"> <!-- Soulbleeder -->
+		
+	</distance>
+	<distance id="27384" level="400" unproperly="1"> <!-- Soulpiercer -->
+		
+	</distance>
+	<distance id="27395" unproperly="1"> <!-- Lion Longbow -->
+		
+	</distance>
+	<distance id="27471" level="600" unproperly="1"> <!-- Sanguine Bow -->
+		
+	</distance>
+	<distance id="27472" level="600" unproperly="1"> <!-- Grand Sanguine Bow -->
+		
+	</distance>
+	<distance id="27473" level="600" unproperly="1"> <!-- Sanguine Crossbow -->
+		
+	</distance>
+	<distance id="27474" level="600" unproperly="1"> <!-- Grand Sanguine Crossbow -->
+		
+	</distance>
+	<distance id="27646" unproperly="1"> <!-- Jungle Bow -->
+		
+	</distance>
+	<distance id="27661" unproperly="1"> <!-- Eldritch Bow -->
+		
+	</distance>
+	<distance id="27662" unproperly="1"> <!-- Gilded Eldritch Bow -->
+		
+	</distance>
+	<distance id="27685" unproperly="1"> <!-- Naga Crossbow -->
+		
+	</distance>
+
+	<!-- Ammunition -->
+	<distance id="27735" action="removecharge" /> <!-- Exercise Bow -->
+	<distance id="27737" action="removecharge" /> <!-- Exercise Wand -->
+	<distance id="1294" breakchance="4" /> <!-- small stone -->
+	<distance id="2111" action="removecount" /> <!-- snowball -->
+	<distance id="2389" breakchance="0" script="spear.lua"/> <!-- spear -->
+	<distance id="3965" breakchance="0" script="spear.lua"/> <!-- hunting spear -->
+	<distance id="7367" breakchance="0" script="spear.lua"/> <!-- enchanted spear -->
+	<distance id="2399" breakchance="10" /> <!-- throwing star -->
+	<distance id="2410" breakchance="7" /> <!-- throwing knife -->
+	<distance id="2543" action="removecount" /> <!-- bolt -->
+	<distance id="2544" action="removecount" /> <!-- arrow -->
+	<distance id="2545" action="removecount" script="poison_arrow.lua" /> <!-- Poison Arrow -->
+	<distance id="2546" action="removecount" script="burst_arrow.lua" /> <!-- Burst Arrow -->
+	<distance id="2547" action="removecount" unproperly="1" /> <!-- Power Bolt -->
+	<distance id="6529" action="removecount" unproperly="1" /> <!-- Infernal Bolt -->
+	<distance id="7363" action="removecount" unproperly="1" /> <!-- Piercing Bolt -->
+	<distance id="7364" action="removecount" unproperly="1" /> <!-- Sniper Arrow -->
+	<distance id="7365" action="removecount" unproperly="1" /> <!-- Onyx Arrow -->
+	<distance id="7366" breakchance="9" script="viper_star.lua" />
+	<distance id="7368" breakchance="33" unproperly="1" /> <!-- Assassin Star -->
+	<distance id="7378" breakchance="3" unproperly="1" /> <!-- Royal Spear -->
+	<distance id="7838" action="removecount" unproperly="1" /> <!-- Flash Arrow -->
+	<distance id="7839" action="removecount" unproperly="1" /> <!-- Shiver Arrow -->
+	<distance id="7840" action="removecount" unproperly="1" /> <!-- Flaming Arrow -->
+	<distance id="7850" action="removecount" unproperly="1" /> <!-- Earth Arrow -->
+	<distance id="15648" action="removecount" unproperly="1" /> <!-- Tarsal Arrow -->
+	<distance id="15649" action="removecount" unproperly="1" /> <!-- Vortex Bolt -->
+	<distance id="18303" action="removecount" /> <!-- crystal bolt -->
+	<distance id="18304" action="removecount" unproperly="1" /> <!-- Crystalline Arrow -->
+	<distance id="18435" action="removecount" unproperly="1" /> <!-- Prismatic Bolt -->
+	<distance id="18436" action="removecount" unproperly="1" /> <!-- Drill Bolt -->
+	<distance id="18437" action="removecount" unproperly="1" /> <!-- Envenomed Arrow -->
+	<distance id="23529" breakchance="31" unproperly="1" /> <!-- Glooth Spear -->
+	<distance id="23839" action="removecount" unproperly="0" level="1" /> <!-- Simple Arrow -->
+	<distance id="25526" breakchance="10" /> <!-- throwing star of Sula -->
+	<distance id="27218" breakchance="40" unproperly="1" /> <!-- Leaf Star -->
+	<distance id="27219" breakchance="30" unproperly="1" /> <!-- Royal Star -->
+	<distance id="27641" action="removecount" script="diamond_arrow.lua" level="150"/> <!-- Diamond Arrow -->
+</weapons>

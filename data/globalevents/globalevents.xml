@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+	<globalevent type="startup" name="ServerStartup" script="startup.lua" />
+	<globalevent type="record" name="PlayerRecord" script="record.lua" />
+	<globalevent name="Server Save" time="10:33:00" script="serversave.lua" />
+	<globalevent name="save" interval="3600000" script="save.lua"/>
+
+	<!-- Events -->
+	<!-- <globalevent name="Lottery" time="15:00:00" script="custom/events/lottery.lua" /> -->
+	<!-- <globalevent name="Battlefield" interval="60000" script="custom/events/battlefield.lua" /> -->
+	<!-- <globalevent name="SafeZone" interval="60000" script="custom/events/safezone.lua" /> -->
+	<!-- <globalevent name="SnowBall" interval="60000" script="custom/events/snowball.lua" /> -->
+	<!-- <globalevent name="FireStorm" interval="60000" script="custom/events/firestorm.lua" /> -->
+	<!-- <globalevent name="MonsterHunt" interval="60000" script="custom/events/monsterHunt.lua" /> -->
+	<!-- <globalevent name="MonsterHuntEnd" time="14:55" script="custom/events/monsterHunt.lua" /> -->
+
+
+	<!-- Demon Oak Quest -->
+	<globalevent name="DemonOakVoices" interval="15000" script="demon oak quest/voices.lua" />
+
+	<!-- Rent Horses -->
+	<globalevent name="RentedMounts" interval="15000" script="others/checkMount.lua" />
+
+	<!-- Spawn -->
+	<!-- <globalevent name="RaidSystem" interval="10000" script="spawn/raids.lua" /> -->
+	<globalevent name="BossSystem" interval="3600000" script="spawn/BossSpawn.lua" />
+	<globalevent type="startup" name="RashidSpawn" script="spawn/RashidSpawn.lua" />
+	<globalevent type="startup" name="CilliaSpawn" script="spawn/CilliaSpawn.lua" />
+	<globalevent type="startup" name="YasirSpawn" script="worldchanges/yasir.lua" />
+
+	
+</globalevents>
